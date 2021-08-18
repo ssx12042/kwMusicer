@@ -29,6 +29,3 @@ kuwo music download
 
 ## 联系我
 - 邮箱：ssx12042@163.com
-=======
-# kwMusicer
-kuwo music download
