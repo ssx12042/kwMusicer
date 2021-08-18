@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Musicer
 kuwo music download
 
@@ -19,7 +18,7 @@ kuwo music download
 	python main.py
 ```
 ## 运行效果如下:
-![image](https://github.com/xiayouran/Musicer/raw/main/vip.png)
+![image](https://github.com/ssx12042/kwMusicer/blob/master/images/musicer.png)
 
 
 ## 更新记录
@@ -33,4 +32,3 @@ kuwo music download
 =======
 # kwMusicer
 kuwo music download
->>>>>>> 37903f30b078e78bd061ff9fda833dcf22b8766c
